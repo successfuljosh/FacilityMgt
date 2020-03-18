@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:controls="clr-namespace:FacilityMgt.Controls"
+             xmlns:converter="clr-namespace:FacilityMgt.Converter"
+             xmlns:viewModel="clr-namespace:FacilityMgt.ViewModels"
+             mc:Ignorable="d"
+             x:Class="FacilityMgt.Views.QuestionsPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converter:BoolConverter x:Key="reverseBool"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.BindingContext>
+        <viewModel:QuestionPageViewModel/>
+    </ContentPage.BindingContext>
+    
+    
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Wheat" Padding="20">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Image Source="logo" WidthRequest="100"/>
+                <Label Text="Facility Management Multiple Choice Questions" 
+                       TextColor="Black" FontSize="Large" FontAttributes="Bold"
+                       VerticalOptions="CenterAndExpand"/>
+            </StackLayout>
+            
+            <controls:RadioBtn
+               LabelText="Option 1"
+                ImageOn="checked.png"
+                ImageOff="unchecked.png"
+                IsSelected="True"/>
+
+
+            <controls:RadioBtn
+               LabelText="Option 2"
+                ImageOn="checked.png"
+                ImageOff="unchecked.png"
+                IsSelected="False"/>
+
+
+
+            <!--<ListView>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

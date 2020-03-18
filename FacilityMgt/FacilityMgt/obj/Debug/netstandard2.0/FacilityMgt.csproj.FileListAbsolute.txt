@@ -1,0 +1,14 @@
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\bin\Debug\netstandard2.0\FacilityMgt.deps.json
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\bin\Debug\netstandard2.0\FacilityMgt.dll
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\bin\Debug\netstandard2.0\ref\FacilityMgt.dll
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\bin\Debug\netstandard2.0\FacilityMgt.pdb
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\FacilityMgt.csprojAssemblyReference.cache
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\Views\QuestionsPage.xaml.g.cs
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\FacilityMgt.AssemblyInfoInputs.cache
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\FacilityMgt.AssemblyInfo.cs
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\FacilityMgt.dll
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\ref\FacilityMgt.dll
+C:\Users\Josh John\source\repos\FacilityMgt\FacilityMgt\FacilityMgt\obj\Debug\netstandard2.0\FacilityMgt.pdb
